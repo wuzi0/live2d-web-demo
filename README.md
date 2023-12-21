@@ -1,0 +1,2 @@
+对于live2d官方的CubismSdkForWeb项目进行修改，然后打包之后，在网页进行测试，这是一个demo项目，当然也可以直接放自己的网站上用，是一个即用的demo测试项目
+对于live2d模型，kafuka1模型来自b站miHoYo版权所有，sdwhite cat free模型来自b站‘一个ayabe’版权所有
